@@ -1,0 +1,26 @@
+div{
+  border: 2px solid#625e5e;
+  border-radius: 15px;
+  background: #c5b2b2;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+h2{
+  color: #e79107;
+  margin-top: 10px;
+}
+h3{
+  color: #0795e7;
+  margin-top: 10px;
+}
+
+#img{
+  width: 300px;
+  height: 350px;
+}
